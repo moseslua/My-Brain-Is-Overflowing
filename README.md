@@ -1,3 +1,7 @@
+Fork of My brain is full
+for an ADHD 17 year old Researcher
+
+
 <h1 align="center">🧠 My Brain Is Full — Crew</h1>
 
 <p align="center">
